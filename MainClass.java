@@ -11,6 +11,7 @@ public class MainClass {
 		System.out.println("Welcome to Version 1.8");
 >>>>>>> 2fe43895da1ea877653f89e9f4cbf12fe5943c13
 		
+		System.out.println("Hallo");
 		
 	}
 
